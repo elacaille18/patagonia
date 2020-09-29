@@ -8,6 +8,10 @@ class Ruby
 		puts 'bye'
 	end
 
+	def my_third_function
+		puts 'I am on my own branch'
+	end
+
 	# This is a example file
 
 
