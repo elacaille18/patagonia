@@ -7,4 +7,6 @@ class Ruby
 	def my_second_function
 		puts 'bye'
 	end
+
+	# This is a example file
 end
