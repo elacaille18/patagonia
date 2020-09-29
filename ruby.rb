@@ -8,6 +8,10 @@ class Ruby
 		puts 'bye'
 	end
 
+	def function_master
+		# yolo
+	end
+
 	# This is a example file
 
 
